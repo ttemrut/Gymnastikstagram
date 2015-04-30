@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Startpage</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+		<ul id="navMenu">
+		<li id="hov1"><a href="http://dribbble.com/jclark9122"  style="background-color:rgba(255, 255, 255, 0.45);">DRIBBBLE</a></li>
+		<li id="hov2"><a href="#"  style="background-color:rgba(255, 255, 255, 0.35);">FORRST</a></li>
+		<li id="hov3"><a href="#"  style="background-color:rgba(255, 255, 255, 0.25);">TWITTER</a></li>
+		<li id="hov4"><a href="#"  style="background-color:rgba(255, 255, 255, 0.15);">FACEBOOK</a></li>
+		<li id="hov5"><a href="#"  style="background-color:rgba(255, 255, 255, 0.1);">PINTEREST</a></li>
+		<li id="hov6"><a href="#"  style="background-color:rgba(255, 255, 255, 0.04);">GMAIL</a></li>
+	</ul>
+</body>
+</html>
